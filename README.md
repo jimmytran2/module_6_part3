@@ -5,3 +5,5 @@
 ## Course: Developing in DevOps
 
 ## Date: November 26, 2025
+
+Small update for commit
